@@ -8,3 +8,7 @@ This is my first attempt to analyze the Radiohead discography, using the Python 
 
 This is still a work in progress, so far I have analyzed the audio features of the songs from each album. Starting with the variable Valence, which according to Spotify's documentation it can be defined as: 
 > A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
+
+Meaning I was able to verify that A Moon Shaped Pool is, musically, the saddest Radiohead Album. All the details of this analysis and its visualization can be seen at the Jupyter Notebook on this repository.
+
+![You can see the Valence in the album cover](https://m.media-amazon.com/images/I/815bmGN5LML._AC_SX466_.jpg)
